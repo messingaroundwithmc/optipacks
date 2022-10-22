@@ -3,8 +3,14 @@ You can import them from URL!
 New Instance -> Import from zip -> Local file or link to direct download -> Paste url.
 
 Packs and descriptions:
+
 optiEssentials is 1.19.2-based modpack made with Fabric. It's main goal is to make playing together easier.
 Essentials & ViaFabric are the helpers. Essentials lets you add friends and play with them in singleplayer worlds.
 ViaFabric lets you join any server on any version up to itself.
 Download / Import Link.
 optiEssentials - https://messingaroundwithmc.github.io/optipacks/optiEssentials.zip
+
+opti-OLDPvP is 1.8.9-based modpack made with Forge. It's main goal is to be optimized to play Hypixel, Minemen and other 1.8 PvP-based servers.
+Yes, Forge is kinda hard for computers, but we have FoamFix! FoamFix is mod that optimizes every aspect of Minecraft so Forge doesn't gonna affect gameplay.
+Download / Import Link.
+opti-OLDPvP - https://messingaroundwithmc.github.io/optipacks/opti-OLDPvP.zip
