@@ -1,2 +1,2 @@
 # optipacks
-This repository contains all optipacks made by latteru. These are great for optimization. Packs for PrismLauncher / PolyMC
+All packs direct links, explanations are [here](https://messingaroundwithmc.github.io/optipacks/index.txt)
